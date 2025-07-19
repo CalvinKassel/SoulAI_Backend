@@ -1,0 +1,164 @@
+# railway.yml - Railway Deployment Configuration
+# Save in: backend/railway.yml
+
+version: 2
+
+services:
+  backend:
+    name: soulai-backend
+    source:
+      repo: your-username/soulai-backend
+      branch: main
+    build:
+      command: npm install
+    start:
+      command: npm start
+    environment:
+      NODE_ENV: production
+      PORT: ${{ PORT }}
+      MONGODB_URI: ${{ MONGODB_URI }}
+      DATABASE_URL: ${{ DATABASE_URL }}
+      JWT_SECRET: ${{ JWT_SECRET }}
+      OPENAI_API_KEY: ${{ OPENAI_API_KEY }}
+      FRONTEND_URL: ${{ FRONTEND_URL }}
+      CLOUDINARY_CLOUD_NAME: ${{ CLOUDINARY_CLOUD_NAME }}
+      CLOUDINARY_API_KEY: ${{ CLOUDINARY_API_KEY }}
+      CLOUDINARY_API_SECRET: ${{ CLOUDINARY_API_SECRET }}
+      REDIS_URL: ${{ REDIS_URL }}
+      EMAIL_SERVICE_API_KEY: ${{ EMAIL_SERVICE_API_KEY }}
+    healthcheck:
+      path: /health
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    resources:
+      memory: 1GB
+      cpu: 1
+    scaling:
+      min: 1
+      max: 3
+
+---
+
+# docker-compose.yml - Local Development with Docker
+# Save in: backend/docker-compose.yml
+
+version: '3.8'
+
+services:
+  app:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=development
+      - MONGODB_URI=mongodb://mongo:27017/soulai
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - mongo
+      - redis
+    volumes:
+      - .:/app
+      - /app/node_modules
+
+  mongo:
+    image: mongo:7.0
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    environment:
+      - MONGO_INITDB_DATABASE=soulai
+
+  redis:
+    image: redis:7.2-alpine
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+
+  postgres:
+    image: postgis/postgis:15-3.3
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_DB=soulai
+      - POSTGRES_USER=soulai
+      - POSTGRES_PASSWORD=password
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  mongo_data:
+  redis_data:
+  postgres_data:
+
+---
+
+# Dockerfile - Production Docker Image
+# Save in: backend/Dockerfile
+
+FROM node:18-alpine
+
+# Install system dependencies
+RUN apk add --no-cache \
+    python3 \
+    make \
+    g++ \
+    cairo-dev \
+    jpeg-dev \
+    pango-dev \
+    giflib-dev
+
+# Set working directory
+WORKDIR /app
+
+# Copy package files
+COPY package*.json ./
+
+# Install dependencies
+RUN npm ci --only=production && npm cache clean --force
+
+# Copy application code
+COPY . .
+
+# Create non-root user
+RUN addgroup -g 1001 -S nodejs
+RUN adduser -S soulai -u 1001
+
+# Change ownership
+RUN chown -R soulai:nodejs /app
+USER soulai
+
+# Expose port
+EXPOSE 3000
+
+# Health check
+HEALTHCHECK --interval=30s --timeout=3s --start-period=5s --retries=3 \
+  CMD node healthcheck.js
+
+# Start application
+CMD ["npm", "start"]
+
+---
+
+# .dockerignore - Docker ignore file
+# Save in: backend/.dockerignore
+
+node_modules
+npm-debug.log
+.git
+.gitignore
+README.md
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.nyc_output
+coverage
+.vscode
+.idea
+*.log
+tmp
+temp
