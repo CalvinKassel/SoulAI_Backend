@@ -1,0 +1,329 @@
+Here: Emotions Explained -- Ekman's Atlas of Emotion Introduction Most
+emotions researchers agree on these five Universal Emotions: emotions
+that all humans, no matter where or how we were raised, have in common.
+Tap on an emotion to start exploring.
+
+ANGER Overview We feel anger when we are mentally or physically blocked.
+Anger varies in strength and frequency in our lives.ANGRY Aggressive
+Outraged Livid Defiant Appalled Resentful Fuming Disgusted Contemptuous
+Infuriated Hostile Frustrated Offended Irritated Indignant Annoyed
+Repulsed Mad Disdainful Bitter Scornful Furious Enraged Irate Incensed
+
+Emotional States FURY VENGEFULNESS BITTERNESS ARGUMENTATIVENESS
+FRUSTRATION EXASPERATION ANNOYANCE ECSTASY EXCITEMENT WONDER NACHES
+FIERO PRIDE RELIEF PEACE SCHADENFREUDE REJOICING AMUSEMENT
+COMPASSION/JOY SENSORY PLEASURE DISPUTE BE PASSIVE-AGGRESSIVE Angry,Let
+down,Betrayed Angry,Let down,Resentful Angry,Humiliated,Disrespected
+Angry,Humiliated,Ridiculed Angry,Bitter,Indignant Angry,Bitter,Violated
+Angry,Mad,Furious Angry,Mad,Jealous Angry,Aggressive,Provoked
+Angry,Aggressive,Hostile Angry,Frustrated,Infuriated
+Angry,Frustrated,Annoyed Angry,Distant,Withdrawn Angry,Distant,Numb
+Angry,Critical,Sceptical Angry,Critical,Dismissive Aggressive Outraged
+Livid Defiant Appalled Resentful Fuming Disgusted Contemptuous
+Infuriated Hostile Frustrated Offended Irritated Indignant Annoyed
+Repulsed Mad Disdainful Bitter Scornful Furious Enraged Irate Incensed
+
+Actions Anger Intrinsic Quarrel, Insult, Undermine, Dispute,
+Scream/yell, Use physical force, Simmer/brood, Be passive-aggressive
+Intentional Set limits, Be firm, Withdraw, Take a time out, Breathe,
+Practice patience, Reframe, Distract, Avoid, Remove the interference
+
+Antidotes Anger Antidotes Annoyance Patience, open-mindedness, concern
+for others. Frustration Letting go, letting go of grasping, putting
+things in a larger perspective. Argumentativeness Making effort to
+understand the other's perspective, cognitive empathy, benevolence,
+wishing to solve the problem through a mutually agreeable solution.
+Exasperation Letting go of grasping. Patience, inner calm. Trying to
+understand the causes and conditions that brought about the undesirable
+situation. Vengefulness Contemplating the negative effects of taking
+revenge, in the short and long term; forgiveness not as condoning
+harmful behavior but as breaking the cycle of resentment and hatred.
+Fury Taking a break, physically and mentally, from the circumstances
+that brought fury about. Looking at fury itself with the eye of
+awareness as if gazing at a raging fire and slowly letting it calm down.
+
+FEAR Overview FEARFUL Afraid Anxious Cautious Cowardly Distrustful
+Dreading Frightened Horrified Nervous Paranoid Scared Suspicious T
+errified Vulnerable Concerned Alarmed Apprehensive Exposed Defenseless
+Doubtful Panicked Hesitant Hysterical T ense Petrified Shaky Timid
+Worried
+
+Emotional States Trepidation: A mild sense of unease or apprehension
+about a potential threat. Nervousness: A heightened state of worry or
+concern, often about an upcoming event or uncertainty. Anxiety: A more
+intense and persistent feeling of worry, typically without a specific or
+immediate threat. Dread: A deep-seated fear about an anticipated event,
+often accompanied by a sense of helplessness. Desperation: A state of
+intense fear combined with a sense of urgency or hopelessness in the
+face of a perceived threat. Panic: An overwhelming and uncontrollable
+fear response, often leading to irrational behavior. Terror: The most
+intense form of fear, characterized by a complete loss of control and an
+overwhelming sense of imminent danger. Fearful,Scared,Helpless
+Fearful,Scared,Frightened Fearful,Anxious,Overwhelmed
+Fearful,Anxious,Worried Fearful,Insecure,Inadequate
+Fearful,Insecure,Inferior Fearful,Weak,Worthless
+Fearful,Weak,Insignificant Fearful,Rejected,Excluded
+Fearful,Rejected,Persecuted Fearful,Threatened,Nervous
+Fearful,Threatened,Exposed
+
+Actions Fear Intrinsic Withdraw, Avoid, Hesitate, Freeze, Scream/yell,
+Ruminate, Worry Intentional Reframe, Be mindful, Breathe, Distract
+
+Antidotes Fear Antidotes Trepidation Trying to ponder what can be done.
+Calming the mind gives the best chance to find the appropriate solution
+to what caused the trepidation in the first place. Nervousness Trying to
+ponder what can be done. Calming the mind gives the best chance to find
+the appropriate solution to what caused the nervousness in the first
+place. Anxiety Making a special effort of letting go of ruminations
+about the past and anticipations of the future. Dread Remaining as calm
+as as possible. Seeing what can be done for yourself and for others as
+well. Panic Making an effort to see if anything can act as a mitigating
+factor (depending on the causes involved). Horror Trying to see if
+anything can be done immediately. If that is not the case, creating
+distance to see if something can be done from afar. Responding with
+firmness and compassion, never with hatred. Terror Instilling some
+calmness in the mind in order to take most appropriate decision.
+
+DISGUST Emotional States Aversion Evaluating impartially the degree of
+harmfulness, taking appropriate measures, and then letting aversion
+dissolve in a space of mindful awareness. Dislike While evaluating
+impartially the ethical issues, generating compassion so as to find the
+best way to remedy the causes and conditions that triggered dislike.
+Distaste Evaluating impartially the degree of harmfulness, taking
+appropriate measures, and then letting distaste dissolve in a space of
+mindful awareness. Repugnance Evaluating impartially the degree of
+harmfulness, taking appropriate measures, and then letting repugnance
+dissolve in a space of mindful awareness. Loathing---Self Using healthy
+regret to generate the determination to improve oneself; whenever
+possible, repairing the harm caused to others. Not falling into
+pessimistic guilt, thinking that one is fundamentally bad and that that
+is the way one is bound to remain. Not underestimating the potential for
+change. Loathing---Others Adopting the outlook of a caring physician,
+who might deeply disapprove certain behaviors but will focus on doing
+all that is possible to cure a person of their afflictions. Revulsion
+Adopting the outlook of a caring physician, who might deeply disapprove
+certain behaviors but will focus on doing all that is possible to cure a
+person of their afflictions. Abhorrence In the case of toxic substances
+or situations, doing the best one can to calmly avoid them. In the case
+of actions, adopting the outlook of a caring physician, who might deeply
+disapprove certain behaviors but will focus on doing all that is
+possible to cure a person of their afflictions.
+Disgusted,Disapproving,Judgmental Disgusted,Disapproving,Embarrassed
+Disgusted,Disappointed,Appalled Disgusted,Disappointed,Revolted
+Disgusted,Awful,Nauseated Disgusted,Awful,Detestable
+Disgusted,Repelled,Horrified Disgusted,Repelled,Disrespected
+
+Emotional Experience islike: The mildest form of disgust, characterized
+by a general sense of aversion or preference against something or
+someone. Aversion: A stronger desire to avoid or distance oneself from
+the source of discomfort. Distaste: A response often triggered by
+unpleasant tastes or smells, but can also be metaphorical, relating to
+ideas or behaviors. Repugnance: A deep-seated repulsion, often in
+response to something perceived as morally or physically offensive.
+Revulsion: An intense feeling of disgust that can cause physical
+reactions like nausea. Abhorrence: A profound detestation, often linked
+to ethical or moral violations. Loathing: The most intense form of
+disgust, often directed toward individuals or actions deemed utterly
+reprehensible
+
+Actions "We respond to emotional states with our actions. Tap on the
+shapes to learn about the possible actions resulting from Disgust.
+Actions of Disgust For example, we might avoid feeling aversion towards
+others at work, but find ourselves feeling aversion towards individuals
+we read about in the news. Avoiding aversion can be constructive in
+overcoming bias, but can be destructive if it leads us to get involved
+with a harmful person. Select a shape to learn about some of the states
+we can experience. Then select an action to learn more." Disgust
+Intrinsic Withdraw, Avoid, Vomit, Dehumanize Intentional Withdraw, Avoid
+
+Antidotes Disgust Antidotes Aversion Evaluating impartially the degree
+of harmfulness, taking appropriate measures, and then letting aversion
+dissolve in a space of mindful awareness. Dislike While evaluating
+impartially the ethical issues, generating compassion so as to find the
+best way to remedy the causes and conditions that triggered dislike.
+Distaste Evaluating impartially the degree of harmfulness, taking
+appropriate measures, and then letting distaste dissolve in a space of
+mindful awareness. Repugnance
+
+Evaluating impartially the degree of harmfulness, taking appropriate
+measures, and then letting repugnance dissolve in a space of mindful
+awareness. Loathing---Self Using healthy regret to generate the
+determination to improve oneself; whenever possible, repairing the harm
+caused to others. Not falling into pessimistic guilt, thinking that one
+is fundamentally bad and that that is the way one is bound to remain.
+Not underestimating the potential for change. Loathing---Others Adopting
+the outlook of a caring physician, who might deeply disapprove certain
+behaviors but will focus on doing all that is possible to cure a person
+of their afflictions. Revulsion Adopting the outlook of a caring
+physician, who might deeply disapprove certain behaviors but will focus
+on doing all that is possible to cure a person of their afflictions.
+Abhorrence In the case of toxic substances or situations, doing the best
+one can to calmly avoid them. In the case of actions, adopting the
+outlook of a caring physician, who might deeply disapprove certain
+behaviors but will focus on doing all that is possible to cure a person
+of their afflictions.
+
+SADNESS Overview UNHAPPY Agonized Disillusioned Melancholy Discontented
+Jealous Sad Hurt Pessimistic Despondent Negative Suspicious
+Grief-stricken Stressed Crushed Miserable Alone Dissatisfied Shameful
+Discouraged Lonely Detached Inadequate Regretful Guilty Pained T ortured
+Moody Stubborn Dark Somber Anguished Envious Disappointed Disheartened
+Low Heartbroken Inferior Remorseful Needy Pathetic Withdrawn Startled
+Sullen Depressed Blue Gloomy INSECURE Awkward Lost Unsure Confused T orn
+Common Indecisive Unfocused Foolish Surprised Bewildered Silly
+Uncomfortable Embarrassed Uneasy Baffled Puzzled Worthless Disoriented
+Uncertain OVERWHELMED Burdened Thwarted Obliterated Despairing Worn out
+Useless Hopeless Confused Defeated Pressured Disorganized Helpless Worn
+down Obligated Powerless Compelled T rapped Weak Devastated Consumed
+Impotent Exhausted UNLOVED Abandoned Deserted Judged Criticized Ignored
+Rejected Hated Oppressed Victimized Lonely Unsupported Betrayed Singled
+out Alone Disparaged Aching Discarded Labeled Cut off Insignificant
+Repulsive Humiliated Overlooked Chastised Misunderstood Used Excluded
+Unlovable Belittled Left out Alienated Disgraced Shamed
+
+Emotional States Disappointment: A feeling that expectations are not
+being met. Discouragement: A feeling that there is no way to cope.
+Distraughtness: Agitated sadness. Resignation: Acceptance that nothing
+can be done. Helplessness: Realization of the inability to prevent or
+cope with the loss. Hopelessness: A feeling that nothing good is to
+come. Misery: Anguished sadness, usually prolonged. Despair: Resigned
+anguish. Grief: Anguished sadness over the loss of loved ones. Sorrow:
+Sadness over a loss. Anguish: Intense, agitated sadness
+Sad,Hurt,Embarrassed Sad,Hurt,Disappointed Sad,Depressed,Guilty
+Sad,Depressed,Despair Sad,Guilty,Remorseful Sad,Guilty,Ashamed
+Sad,Despair,Powerless Sad,Despair,Grief Sad,Vulnerable,Abandoned
+Sad,Vulnerable,Victimized Sad,Lonely,Fragile Sad,Lonely,Rejected
+Bad,Bored,Indifferent Bad,Bored,Apathetic Bad,Busy,Pressured
+Bad,Busy,Rushed Bad,Stressed,Overwhelmed Bad,Stressed,Out of control
+Bad,Tired,Sleepy Bad,Tired,Unfocused
+
+Actions Sadness Intrinsic Seek comfort, Withdraw, Mourn, Protest, Feel
+ashamed Intentional Withdraw, Distract
+
+Antidotes Sadness Antidotes Disappointment Understanding that sadness is
+natural in appropriate circumstances, but also that experiencing loss is
+part of life and that one should not let oneself be overwhelmed. Trying
+to find a place of peace within oneself and thinking of constructive
+things that could be done instead. Distraughtness Understanding that a
+permanent state of sadness will not bring any real benefit. In the case
+of mourning someone, falling into long-term sadness and despair should
+not be seen as an homage paid to that person. It is better to pay homage
+by doing meaningful and altruistic acts. Discouragement Understanding
+that a permanent state of sadness will not bring any real benefit. In
+the case of mourning someone, falling into long-term sadness and despair
+should not be seen as an homage paid to that person. It is better to pay
+homage by doing meaningful and altruistic acts. Helplessness
+Understanding that a permanent state of sadness will not bring any real
+benefit. In the case of mourning someone, falling into long-term sadness
+and despair should not be seen as an homage paid to that person. It is
+better to pay homage by doing meaningful and altruistic acts. Misery
+Understanding that a permanent state of sadness will not bring any real
+benefit. In the case of
+
+mourning someone, falling into long-term sadness and despair should not
+be seen as an homage paid to that person. It is better to pay homage by
+doing meaningful and altruistic acts. Grief Understanding that a
+permanent state of sadness will not bring any real benefit. In the case
+of mourning someone, falling into long-term sadness and despair should
+not be seen as an homage paid to that person. It is better to pay homage
+by doing meaningful and altruistic acts. Despair Understanding that a
+permanent state of sadness will not bring any real benefit. In the case
+of mourning someone, falling into long-term sadness and despair should
+not be seen as an homage paid to that person. It is better to pay homage
+by doing meaningful and altruistic acts. Anguish Realizing that things
+and people are impermanent by nature. Revolting against this cannot lead
+to a fulfilled life. Enjoyment Antidotes Schadenfreude Perceiving the
+destructive aspect of it and trying to generate benevolence toward the
+person. Pride Humility. Putting things into perspective and realizing
+that there are many other people with similar or even better qualities
+than one's own. Understanding that one could do something not just
+because one is so special, but because of many interdependent causes and
+conditions in which others have taken part.
+
+JOY Overview Types of Positive Emotion Potency Feeling capable and able
+to do whatever is needed. Spirituality Feelings of wonder or awe, such
+as when listening to a particularly beautiful piece of music, or
+enjoying nature. Contentment Feeling pleasantly satisfi ed with
+circumstance. Relaxation Feeling unstressed and mentally calm.
+Self-Indulgence e.g. pampering yourself. Not selfi sh, but a pleasure
+which is personal rather than shared. Altruism Sharing or caring for
+other people. Absorption Feeling interested in a topic or a hobby.
+Exhilaration Being excited about something, or t Situations producing
+positive emotions. Spending a good social evening with friends.
+Receiving an unexpected compliment which means a lot to you. Getting
+involved in a thriller on TV. Feeling overwhelmed by the beauty of
+nature. Getting on well with your loved ones. Solving an important
+personal problem. Listening to a beautiful piece of music. Engaging in a
+favourite hobby (not sports). Having a rewarding conversation. Doing
+some sort of commitment activity (e.g. charitable work, etc.). Feeling
+popular at a social gathering. Being a success at something important to
+you. Being absorbed by your work. Meeting an interesting new person or
+people. Engaging in a favourite sporting activity. Being successful at
+work. Reading a good book. Doing some enjoyable physical work. Buying
+yourself something you have wanted for ages. Spending some time thinking
+about the good things in life. Being given a valuable present by someone
+dear to you. Having a long hot bath, or pampering yourself some other
+way. Spending a memorable evening at a cinema/theatre/concert. Having a
+quiet drink with friends (non-alcoholic or alcoholic).
+
+Emotional States Amusement: Light, playful feelings of enjoyment and
+good humor. Wonder: An experience of something that is very surprising,
+beautiful, amazing, or hard to believe. Fiero: An Italian word that
+describes the enjoyment felt when you have met a challenge that
+stretched your capabilities. Nachas: A Yiddish word for feelings of
+pride in the accomplishments, or sometimes just the existence, of your
+actual offspring or mentored offspring. Pride: A desire for others to
+know the pleasure you feel in your own accomplishments or the
+accomplishments of someone you either nurtured directly or identify
+with. Relief: When something expected to be unpleasant, especially the
+threat of harm, is avoided or comes to an end. Schadenfreude: Enjoyment
+of the misfortunes of another person, usually a rival. Compassion/Joy:
+Enjoyment felt when you act to relieve another person's suffering.
+Rejoicing: A warm, uplifting feeling that people experience when they
+see acts of human goodness, kindness, and compassion. Also called
+elevation. Happy,Content,Free Happy,Content,Joyful
+Happy,Interested,Curious Happy,Interested,Inquisitive
+Happy,Proud,Successful Happy,Proud,Confident Happy,Accepted,Respected
+Happy,Accepted,Valued Happy,Powerful,Courageous Happy,Powerful,Creative
+Happy,Peaceful,Loving Happy,Peaceful,Thankful Happy,Trusting,Sensitive
+Happy,Trusting,Intimate Happy,Optimistic,Hopeful
+Happy,Optimistic,Inspired At ease Energetic Optimistic Ecstatic Inspired
+Satisfied Hopeful Relaxed Wonderful Pleased Vital Content Thankful
+Cheerful Glad Blissful Excited Peaceful Elated Lighthearted Serene
+Humorous Relieved Delighted Proud Well-Being Grateful T ranquil
+Comfortable Playful Calm Exhilarated Spirited COMPETENT Adept Strong
+Secure Capable Arrogant T ogether Independent Confident Cocky Powerful
+Inspired Important Self-Reliant Savvy Invulnerable Adequate Thoughtful
+Self-Assured Composed Brave Worthy Indestructible Courageous Privileged
+Invincible VALUED Accepted Cherished Favored Belonging Loved Understood
+Included Revered Appreciated Respected Wanted Desired Worshiped Adored
+Idolized Admired Desirable Validated Loving Affectionate Adoring
+Enchanted Attracted Desirous Infatuated Fond Horny Passionate Longing
+Lustful Y earning Aroused CARING Compassionate T ender Liking Connected
+Concerned Warm Forgiving Empathic INTERESTED Absorbed Eager Resolute
+Challenged Fervent Ardent Determined Motivated Dedicated Fascinated
+Anticipating Enthusiastic Intrigued Curious Intent Addicted Engrossed
+Committed Focused
+
+Antidotes Enjoyment Antidotes Schadenfreude Perceiving the destructive
+aspect of it and trying to generate benevolence toward the person. Pride
+Humility. Putting things into perspective and realizing that there are
+many other people with similar or even better qualities than one's own.
+Understanding that one could do something not just because one is so
+special, but because of many interdependent causes and conditions in
+which others have taken part.
+
+Impediments Enjoyment Impediments Sensory Pleasures Being unable to
+appreciate the quality of the present moment. Relief Persisting in
+worrying unnecessarily. Amusement Tending to see things in negative
+ways. Excitement Feeling pessimism. Ecstasy Grasping, attachment and any
+other afflictive mental state (animosity, envy, arrogance, etc.). Fiero
+Vanity, narcissism, failing to acknowledge with gratitude all those who
+contributed to make an achievement possible. Naches Pride mixed with
+arrogance and with partiality that makes one feel contemptuous about
+others' achievements. Wonder Grasping. Unease. Rejoicing Envy, jealousy,
+pride. Compassion/Joy Regret at having done something good at the cost
+of some personal efforts. Narrow-mindedness when caring only for a
+limited number of people who are close. close
+
+
